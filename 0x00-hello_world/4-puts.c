@@ -1,5 +1,8 @@
-#!/bin/bash
-/**
-*main - Programming is like building a multilungual puzzle
-*return - 0
-*/
+#include <stdio.h>
+int main ()
+{
+    puts ("Programming is like building a multilingual puzzle");
+
+    getchar ();
+    return 0;
+    }
