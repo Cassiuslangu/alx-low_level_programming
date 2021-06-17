@@ -1,0 +1,1 @@
+This is this first step I take to programming with C
