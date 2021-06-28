@@ -8,7 +8,6 @@
 int main(void)
 {
 puts("\"Programming is like building a multilungual puzzle");
-echoerr()
 getchar();
 return (0);
 }
