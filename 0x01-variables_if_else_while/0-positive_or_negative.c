@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <time.h>
 
 /**
  * main - Entry point
@@ -11,14 +10,14 @@ int main (void)
 {
 int n;
 
-scanf("%d", &n);
+scanf("%i", &n);
 
 if (n > 0)
-printf("%d is positive", n);
+printf("%i is positive", n);
 else if (n < 0)
-printf("%d is negative", n);
+printf("%i is negative", n);
 else if (n == 0)
-printf("%d is zero", n);
+printf("%i is zero", n);
 
 return (0);
 }
