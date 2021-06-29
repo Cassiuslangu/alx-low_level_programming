@@ -1,0 +1,1 @@
+Learning how variables, if, else and while work.
