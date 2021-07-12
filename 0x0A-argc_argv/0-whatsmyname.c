@@ -4,7 +4,7 @@
 /**
  * main - print the nae of the name of the program
  * @argc: argument count
- * @argc: argument vector
+ * @argv: argument vector
  * Return: 0
  */
 
