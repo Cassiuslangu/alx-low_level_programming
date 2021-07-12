@@ -48,7 +48,7 @@ if (argc == 2)
 {
 int num1 = _atoi(argv[1]);
 int num2 = _atoi(argv[2]);
-int product = num1 * num2
+int product = num1 * num2;
 
 printf("%d\n", product);
 }
