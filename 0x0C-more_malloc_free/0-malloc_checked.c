@@ -1,5 +1,5 @@
-#include "holberton.h"
 #include <stdlib.h>
+#include "holberton.h"
 
 /**
  * *malloc_checked - allocates memory
