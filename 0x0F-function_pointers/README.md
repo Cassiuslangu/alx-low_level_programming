@@ -1,1 +1,1 @@
-Learning functions pointer
+Learning function pointers
