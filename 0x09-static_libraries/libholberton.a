@@ -1,1 +1,1 @@
-ar rc libholberton.a *.o
+ar rc libholberton.a \ 0-_isupper.o 0-_memset.o 1-isdigit.o
