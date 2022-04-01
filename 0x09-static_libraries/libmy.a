@@ -1,4 +1,4 @@
-#include "holberton.h" 
+#include "main.h" 
 
 ar -rcs libholberton.a *.o
 0-isupper.o
@@ -19,4 +19,4 @@ ar -rcs libholberton.a *.o
 9-strcpy.o
 100-atoi.o
 _putchar.o
-ranlib libholberton.a
+ranlib libmy.a
