@@ -1,6 +1,6 @@
 #include "main.h" 
 
-ar -rcs libholberton.a *.o
+ar -rcs libmy.a *.o
 0-isupper.o
 0-memset.o
 0-strcat.o
